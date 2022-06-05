@@ -24,7 +24,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "in.souvikchandra.weatherapp",
+      "versionCode": 1,
+      "permissions":["LOCATION"]
     },
     "web": {
       "favicon": "./assets/favicon.png"
