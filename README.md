@@ -3,7 +3,7 @@
 The "OpenWeather API Guide" helps you find the list of weather products, useful information, links, and documentation to start using our weather API
 
 ## Api Link
-[Api: ](https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key})
+-[Api](https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key})
 
 ## Use the App
 - [Link to Expo Store ](https://expo.dev/@souvikch/weather_app)
