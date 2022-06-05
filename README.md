@@ -2,7 +2,6 @@
 This app is build with react native
 Using real time api
 
-Link: exp://192.168.0.102:19000
 
 Photoes: 
 
